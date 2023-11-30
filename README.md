@@ -1,1 +1,1 @@
-# comp229Assignment2
+# My profile page with Angular UI
